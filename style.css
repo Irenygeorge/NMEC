@@ -1,0 +1,90 @@
+
+.navbar-brand{
+    color: goldenrod;
+    font-weight: 700;
+    font-size: 40px;
+}
+.navbar-brand:hover{
+    color:rgb(214, 163, 35)
+}
+#navimg img{
+    width: 150px;
+    height: 100px;
+}
+.demo{
+    background-color: beige;
+}
+ .active{
+    font-weight:800;
+    font-size: 20px;
+    }
+.nav-link{
+    font-weight:800;
+    font-size: 20px;
+}
+.carousel-inner .carousel-item{
+    height: 100%;
+}
+.carousel-inner .carousel-item img{
+    height: 100vh;
+}
+.ho{
+    color: gold;
+}
+.mar{
+    display: flex;
+    justify-content: center;
+}
+.mar img{ 
+    width: 300px;
+    height: 300px;
+}
+.sho{
+    display: flex;
+    justify-content: center;
+}
+#sho{
+    display: flex;
+    justify-content: flex-start;
+    color: goldenrod;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.lo{
+    font-weight: 700;
+}
+.loza{
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 200px;
+    background-color: rgb(95, 95, 226);
+    width: 300px;
+}
+    
+       
+        
+        #font{
+            margin-top: 150px;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: rgb(32, 32, 124);
+        }
+        #wewe{
+            padding-right: 100px;
+            border-radius: 30px;
+            border-color: goldenrod;
+        }
+        .end{
+            display: flex;
+            justify-content: center;
+            margin-top: 200px;
+        }
+        .navbar{
+            position: sticky;
+            left: 0;
+            right: 0;
+            top: 0;
+        }
+
+       
